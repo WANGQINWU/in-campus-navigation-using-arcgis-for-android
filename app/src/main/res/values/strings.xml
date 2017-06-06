@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">map</string>
+    <string name="mylocation">MyLocation</string>
+    <string name="from">from</string>
+    <string name="to">To</string>
+    <string name="clear">Clear</string>
+    <string name="tour_mode">Tour Mode</string>
+    <string name="database">database</string>
+    <string name="o">○</string>
+    <string name="zoomout">-</string>
+    <string-array name="shcoolinfo">
+        <item>D205</item>
+        <item>A201</item>
+        <item>B504</item>
+        <item>Admission</item>
+        <item>IT</item>
+        <item>Register</item>
+        <item>D201</item>
+        <item>3in1</item>
+        <item>B101</item>
+        <item>Library</item>
+        <item>B3</item>
+        <item>Prof.Pinata</item>
+        <item>B509</item>
+        <item>MyLocation</item>
+
+
+
+    </string-array>
+</resources>
